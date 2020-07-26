@@ -1,0 +1,13 @@
+Resources to Learn Git:
+
+Microsoft Learn
+https://docs.microsoft.com/en-us/learn/paths/intro-to-vc-git/
+
+Git Official Docs
+https://git-scm.com/doc
+
+Progate0
+https://progate.com/languages/git
+
+Atlassian
+https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud
